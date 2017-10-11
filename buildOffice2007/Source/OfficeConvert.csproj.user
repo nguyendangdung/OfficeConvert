@@ -1,0 +1,5 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartArguments>--output="C:\Users\divo\Desktop\Granada\OfficeConvert13\test\climogramas.ods.out.ods" /useaddin /F ODS "C:\Users\divo\Desktop\Granada\OfficeConvert13\test\climogramas.ods"</StartArguments>
+  </PropertyGroup>
+</Project>
